@@ -1,2 +1,2 @@
 # JavaSentRequest
-Java Sent HTTPS Request program
+Java sent HTTPS Request program
